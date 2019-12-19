@@ -1,0 +1,8 @@
+p,h1,.list,h2 { width: 70%;
+    margin: 0 auto;;}
+h1 { font-size: 32px;}
+h2 { font-size: 24px;}
+figcaption { font-style: italic;}
+.firstphoto{
+    float: right;
+    margin: 14px 0px 14px 14px;}
